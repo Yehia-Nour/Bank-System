@@ -1,2 +1,12 @@
-# Bank-System
-This is a C++ project built using Object-Oriented Programming (OOP) principles. It features a modular architecture for scalability and maintainability, with a clean code structure. The project includes a login screen as part of the application. The codebase is organized into separate files for clarity and efficiency.
+# C++ OOP Project
+
+## About
+This project is built with **C++** using **Object-Oriented Programming (OOP)** principles. It is designed to be scalable and maintainable with a well-structured architecture. Key features include:
+- Organized into modular files for clean code.
+- Includes a login screen for user authentication.
+- Scalable architecture for adding new features.
+
+## Features
+- **OOP Principles**: Encapsulation, inheritance, polymorphism, and abstraction.
+- **Scalability**: Easily extendable to add new features.
+- **Clean Code**: Organized structure with separated files for better readability and maintenance.
